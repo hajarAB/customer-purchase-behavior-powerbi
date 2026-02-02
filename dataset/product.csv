@@ -1,1 +1,101 @@
-
+product_id,name,category,price
+1,Herb Seasoned Couscous,Food - Grains,2.49
+2,Action Camera,Electronics,199.99
+3,Computer Monitor Stand,Office,29.99
+4,Hummus Variety Pack,Food - Dairy,5.99
+5,Dried Mango Slices,Food - Snacks,3.49
+6,Smart Home Security Camera,Smart Home,79.99
+7,Garlic and Herb Rub,Food - Spices,2.29
+8,Pet Grooming Glove,Pets,12.99
+9,Smartphone Camera Lens Kit,Photography,19.99
+10,Stainless Steel Water Pitcher,Kitchen,39.99
+11,Tabletop Fire Pit,Outdoor,79.99
+12,Honey Sesame Chicken Mix,Food - Frozen Meals,8.99
+13,Photo Album,Home,24.99
+14,Personalized Cutting Board,Kitchen,34.99
+15,Solar String Lights,Outdoor,29.99
+16,Car Vacuum Cleaner,Automotive,39.99
+17,Chocolate Protein Powder,Food - Supplements,24.99
+18,Peanut Butter Chocolate Clusters,Food - Desserts,2.99
+19,Portable Leaf Blower,Outdoor,149.99
+20,Beach Cover-Up,Clothing - Swimwear,29.99
+21,Maple Almond Granola,Food - Breakfast,5.49
+22,Energy Bites,Food - Snacks,3.99
+23,Luxury Rolling Makeup Case,Beauty,99.99
+24,Compost Bin,Garden,29.99
+25,Coconut Cream Pie Yogurt,Food - Dairy Alternatives,1.99
+26,Sesame Seeds,Food - Baking,1.99
+27,Children's Educational Workbook,Books,12.99
+28,Instant Mashed Potatoes,Food - Sides,1.79
+29,Laptop Backpack,Accessories,69.99
+30,Reusable Snack Bags,Kitchen,14.99
+31,LED Under Cabinet Lighting,Home,29.99
+32,Nut Butter Cups,Food - Snacks,3.99
+33,Biodegradable Dog Waste Bags,Pets,14.99
+34,Car Phone Mount,Automotive,15.99
+35,Organic Brown Rice Cakes,Food - Snacks,3.99
+36,Carrot Ginger Soup,Food - Soups,4.29
+37,Fitness Tracker Band,Fitness,29.99
+38,Smartphone Photography Tripod,Electronics,29.99
+39,Magnetic Spice Containers,Kitchen,24.99
+40,Self-Cleaning Water Bottle,Fitness,49.99
+41,LED Flashlight,Outdoor,19.99
+42,Balsamic Vinegar,Food - Condiments,4.99
+43,Telescope,Outdoor,159.99
+44,Smartphone Gimbal Stabilizer,Photography,89.99
+45,Digital Photo Frame,Home,79.99
+46,Organic Coconut Flour,Food - Baking,5.49
+47,Motorcycle Phone Mount,Automotive,14.99
+48,Asian Salad Mix,Food - Produce,3.99
+49,Car Vacuum,Automotive,49.99
+50,Canned Coconut Milk,Food - Canned Goods,1.89
+51,Fitness Smartwatch,Wearable Tech,99.99
+52,Adjustable Laptop Stand,Office,29.99
+53,Eco-Friendly Cleaning Cloths,Home,12.99
+54,Sliced Avocado,Food - Produce,2.79
+55,Interchangeable Watch Bands,Accessories,24.99
+56,Blue Corn Tortilla Chips,Food - Snacks,3.49
+57,Chocolate Chip Pancake Mix,Food - Bakery,3.99
+58,Coffee Maker,Kitchen,89.99
+59,Spicy Hummus,Food - Deli,3.49
+60,Digital Bullet Journal,Apps,24.99
+61,Portable Hand Warmer,Accessories,24.99
+62,Collapsible Colander,Kitchen,14.99
+63,LED Makeup Mirror,Beauty,39.99
+64,Cinnamon Sugar Donuts,Food - Bakery,4.99
+65,Natural Soy Candles,Home,19.99
+66,Electric Toothbrush,Health,49.95
+67,Adjustable Dumbbells,Fitness,249.99
+68,Smart Thermostat with Wi-Fi,Smart Home,169.99
+69,Pineapple Coconut Yogurt,Food - Dairy,4.49
+70,Popcorn Chicken,Food - Frozen,6.49
+71,Natural Peanut Butter,Food - Spreads,4.29
+72,Chia Seed Pudding Mix,Food - Breakfast,4.19
+73,Sunglasses,Accessories,29.99
+74,Pumpkin Spice Granola,Food - Breakfast,4.99
+75,Chili Garlic Sauce,Food - Condiments,2.49
+76,Thai Red Curry Paste,Food - Condiments,3.99
+77,Cinnamon Rolls,Food - Bakery,4.49
+78,Grilled Vegetable Medley,Food - Vegetables,4.49
+79,Board Game Storage,Toys,19.99
+80,Cabbage Slaw Mix,Food - Vegetables,2.29
+81,Ergonomic Gaming Chair,Gaming,199.99
+82,Coconut Macaroons,Food - Confectionery,4.99
+83,Kids' STEM Robotics Kit,Toys,59.99
+84,Sculpting Kit,Art Supplies,25.99
+85,Tandoori Chicken Skewers,Food - Meat,7.99
+86,Portable Hammock with Stand,Outdoor,69.99
+87,Travel Eye Mask with Ear Plugs,Travel,15.99
+88,Vegetable Fried Rice,Food - Frozen Foods,4.99
+89,Vegan Alfredo Sauce,Food - Sauces,4.99
+90,Classic Chicken Noodle Soup,Food - Canned Goods,3.49
+91,Stuffed Grape Leaves,Food - Prepared Foods,5.79
+92,Electric Rice Cooker,Kitchen,39.99
+93,Vegetable Korma,Food - Frozen,6.49
+94,Maxi Wrap Dress,Clothing - Dresses,49.99
+95,Sweet Cherry Tomatoes,Food - Produce,2.99
+96,Organic Coconut Oil,Food - Oils,8.99
+97,LED Strip Lights Kit,Home,29.99
+98,Smart Thermostat,Smart Home,149.99
+99,Pesto Pasta Salad,Food - Prepared Foods,4.99
+100,Smart Wi-Fi Camera,Smart Home,89.99
