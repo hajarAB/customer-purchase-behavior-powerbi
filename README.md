@@ -77,7 +77,7 @@ to ensure optimal performance and clarity.
   <li>Average Delivery Time</li>
 </ul>
 
-<h2>📊 Dashboard Pages</h2>
+<h2>📊 Dashboard</h2>
 
 <h3>1️⃣ KPI Overview</h3>
 <ul>
@@ -102,22 +102,6 @@ to ensure optimal performance and clarity.
   <li>Product performance table</li>
 </ul>
 
-<h3>4️⃣ Customer Segmentation</h3>
-<ul>
-  <li>New vs recurring customers by month</li>
-  <li>Revenue by customer location (state)</li>
-  <li>Top customers by revenue</li>
-</ul>
-
-<h2>🧠 Customer Classification Logic</h2>
-<p>
-<b>New Customer:</b> A customer whose first purchase occurs in the selected month.<br/>
-<b>Recurring Customer:</b> A customer who has made at least one purchase in a previous month.
-</p>
-<p>
-This logic is implemented using <b>calculated columns</b> based on each customer's first order month.
-</p>
-
 <h2>🛠️ Tools & Technologies</h2>
 <ul>
   <li>Power BI Desktop</li>
@@ -134,6 +118,6 @@ This logic is implemented using <b>calculated columns</b> based on each customer
   <li>Delivery performance varies significantly across regions.</li>
 </ul>
 
-<img src="images/dashboard.png"
+<img src="dashboard/E-Commerce Sales Analysis.png"
      alt="Power BI E-Commerce Sales Analysis Dashboard"
      width="900"/>
